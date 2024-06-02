@@ -137,7 +137,7 @@ public class TriggerBarDetector : Indicator
                 break;
         }
     }
-
+    //test
 
     private BarType DetectCurrentBarType(int index)
     {
